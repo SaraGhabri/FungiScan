@@ -15,6 +15,11 @@ FungiScan AI est une solution basée sur l’intelligence artificielle pour dét
 ✅ **API REST (Flask)** pour traiter les images et retourner les prédictions  
 ✅ **Interface utilisateur intuitive**  
 
+### 🎥 Démos
+[![Démo Model Postman](https://lien-vers-ta-demo-api.com](https://drive.google.com/file/d/1I7-J7frpIH3dpExJtJ47UMXkSTPCqZjj/view?usp=sharing) 
+[![Démo Model Application Mobile ](https://drive.google.com/file/d/12c24XEK6FBndGeqwAJZKvnqJHnevUZle/view?usp=sharing)
+
+
 ---
 
 ## **📂 Architecture du Projet**  
